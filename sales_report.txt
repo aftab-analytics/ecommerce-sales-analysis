@@ -1,0 +1,13 @@
+ECOMMERCE SALES ANALYSIS REPORT
+========================================
+
+Total Orders: 10
+Total Revenue: £975.00
+Average Order Value: £97.50
+
+Category Breakdown:
+             Quantity  Total_Sales  Orders  Revenue_Percentage
+Category                                                      
+Accessories         3          220       2           22.564103
+Clothing           16          375       5           38.461538
+Footwear            6          380       3           38.974359
